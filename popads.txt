@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1008
+! Version: 1014
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -148,6 +148,7 @@
 ||dyazeqpeoykf.com^
 ||dyjifezeyagm.com^
 ||dyzstwcqbgjk.com^
+||eaidabmuxbqy.com^
 ||easnviytengk.com^
 ||ebfjbrlcvjlv.com^
 ||ectbduztanog.com^
@@ -165,6 +166,7 @@
 ||ejgxyfzciwyi.com^
 ||ekhgvpsfrwqm.com^
 ||elzlogcphhka.com^
+||elzmazpsbnwn.com^
 ||emirdzzvhviv.com^
 ||emrumkgmdmdq.com^
 ||enfhddbnariw.com^
@@ -531,6 +533,7 @@
 ||ntndubuzxyfz.com^
 ||ntnlawgchgds.com^
 ||nucqkjkvppgs.com^
+||nushflxucofk.com^
 ||nvajxoahenwe.com^
 ||nxcxithvcoeh.com^
 ||nzcpdaboaayv.com^
@@ -588,6 +591,7 @@
 ||pjnrwznmzguc.com^
 ||pkougirndckw.com^
 ||pkoyiqjjxhsy.com^
+||pktgargbhjmo.com^
 ||plcsedkinoul.com^
 ||plgdhrvzsvxp.com^
 ||plquutxxewil.com^
@@ -912,6 +916,7 @@
 ||xewzazxkmzpc.com^
 ||xgzybmbwfmjd.com^
 ||xhvhisywkvha.com^
+||xhwqginopocs.com^
 ||xicuxxferbnn.com^
 ||ximeldnjuusl.com^
 ||xiwhhcyzhtem.com^
@@ -940,6 +945,7 @@
 ||xzmqokbeynlv.com^
 ||xzwdhymrdxyp.com^
 ||yaifxxudxyns.com^
+||yaoslgiweccw.com^
 ||yaqysxlohdyg.com^
 ||yasltdlichfd.com^
 ||ybhaoglgbgdk.com^
