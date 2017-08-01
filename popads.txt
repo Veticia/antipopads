@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 1971
+! Version: 1972
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -1481,6 +1481,7 @@
 ||tcrinrvfejjh.com^
 ||tcxsonyfzb.bid^
 ||tcyeyccspxod.com^
+||tdrcjxhcmmgeww.bid^
 ||teqceeivmpvv.com^
 ||teyuzyrjmrdi.com^
 ||tfbzzigqzbax.com^
