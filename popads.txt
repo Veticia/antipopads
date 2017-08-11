@@ -1,15 +1,10 @@
 [Adblock Plus 2.0]
-<<<<<<< HEAD
-! Version: 18
-=======
 ! Version: 2146
->>>>>>> parent of 4328148... autoupdate
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
 ! Title: Anti popads.net
 ! Expires: 1 hour
-<<<<<<< HEAD
 ||bjgavencynifm.bid^
 ||bvnekcpa.bid^
 ||ggusxcee.bid^
@@ -28,7 +23,6 @@
 ||uonbbttwys.bid^
 ||wooahiymbmrd.bid^
 ||xpyjxpooncbsvx.bid^
-=======
 ||aajychvi.bid^
 ||aanvxbvkdxph.com^
 ||aaqpajztftqw.com^
@@ -2175,4 +2169,3 @@
 ||zyleqnzmvupg.com^
 ||zylokfmgrtzv.com^
 ||zyqlfplqdgxu.com^
->>>>>>> parent of 4328148... autoupdate
