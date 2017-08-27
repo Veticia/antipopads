@@ -4,14 +4,7 @@
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
 ! Title: Anti popads.net
-! Expires: 1 hour
-! Expires: 1 hour
-! Homepage: https://github.com/Yhonay/antipopads
-! Licence: WTFPL version 2
-! Title: Anti popads.net
-<<<<<<< HEAD
-=======
->>>>>>> parent of b883ed9... autoupdate
+
 ||aajychvi.bid^
 ||aanvxbvkdxph.com^
 ||aaqpajztftqw.com^
