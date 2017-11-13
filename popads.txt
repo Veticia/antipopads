@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
-! Version: 8
+! Version: 10
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
 ! Title: Anti popads.net
 ! Expires: 1 hour
+||atkkkyhyxemut.bid^
 ||bmsmhlpkdvajeo.bid^
 ||erzrulbjdd.bid^
+||gtzyfaro.bid^
 ||htkoyuyk.bid^
 ||irlklysyeqek.bid^
 ||ixqpfqtwi.bid^
