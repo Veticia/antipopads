@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 5963
+! Version: 5969
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -244,6 +244,7 @@
 ||bbqqjejhd.bid^
 ||bbtlombqjr.bid^
 ||bbzwbxchqgph.com^
+||bcgcvepi.com^
 ||bckmtidcnrobwh.bid^
 ||bckwfsvdgfjw.com^
 ||bcnikicdi.bid^
@@ -476,6 +477,7 @@
 ||cbnrvzfvmd.com^
 ||cbolsxvresvu.bid^
 ||cbrqndeptsw.com^
+||cbsfcpciitwcky.com^
 ||cbwrwcjdctrj.com^
 ||cbxadrwlccrky.bid^
 ||cbxqceuuwnaz.com^
@@ -3167,6 +3169,7 @@
 ||nnbestmblotl.com^
 ||nnbmyxnbyduea.bid^
 ||nngqyjabfvq.bid^
+||nnhuvmftitju.com^
 ||nniiptyximoeus.bid^
 ||nnioduwnrwpq.bid^
 ||nnjiluslnwli.com^
@@ -4496,6 +4499,7 @@
 ||tlnwnphf.bid^
 ||tlpwwloqryzu.com^
 ||tlzovwtootkvbj.bid^
+||tmcvwyrqwyp.com^
 ||tmdbgmhh.com^
 ||tmexywfvjoei.com^
 ||tmffmrsa.com^
@@ -4622,6 +4626,7 @@
 ||tyyrigtlkny.com^
 ||tyzfzrjaxxcg.com^
 ||tzcgpmqij.com^
+||tzelsvxtjvy.com^
 ||tzexcretyodzt.bid^
 ||tzgmdsdjmv.bid^
 ||tzhnxsmtdj.com^
@@ -4896,6 +4901,7 @@
 ||vdyqcdxqvebl.com^
 ||veancalta.bid^
 ||veeqneifeblh.com^
+||vegiqjbranp.com^
 ||vegmvagvesye.com^
 ||vehvkcnild.bid^
 ||vejrnvdsrvrbij.bid^
