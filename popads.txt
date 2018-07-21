@@ -1,10 +1,10 @@
-[Adblock Plus 2.0]
-! Version: 6430
+[uBlock Origin]
+! Version: 6432
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
-! Title: Anti popads.net
-! Expires: 1 hour
+! Expires: 1 day
+!
 ||aacgeuvaoqbw.com^
 ||aaeqlxdgx.bid^
 ||aahfcroigwso.com^
@@ -2836,6 +2836,7 @@
 ||lkaumkxmzefa.com^
 ||lkdlamrwl.com^
 ||lkfepwhchrlv.bid^
+||lkfuihubbros.com^
 ||lkgcdedbklfse.com^
 ||llbevorurncfcc.bid^
 ||llbynwyuoj.bid^
@@ -3193,6 +3194,7 @@
 ||mrutbjvgh.com^
 ||mruxsxrnu.com^
 ||mrvzisfsrvs.bid^
+||mrweekseur.com^
 ||mrxvgpzath.bid^
 ||msbmckzmcu.com^
 ||msiegurhgfyl.com^
