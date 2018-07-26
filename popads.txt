@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 6505
+! Version: 6506
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -4586,6 +4586,7 @@
 ||seotpqntjukhg.bid^
 ||seympfgeyrew.com^
 ||sfaprgtgcguh.com^
+||sfawiner.com^
 ||sfcckxdgfgzo.com^
 ||sfgymajb.bid^
 ||sfhyxyodjllrd.bid^
