@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Version: 5880
+! Version: 5881
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -5864,6 +5864,7 @@
 ||wepyyttx.com^
 ||whgvyswets.com^
 ||wjpdgueqasdgeq.com^
+||wqpyqirgzfqsc.com^
 ||wstvcgfkvc.com^
 ||wubdkryfkr.com^
 ||wwngdgldlsv.com^
