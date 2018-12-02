@@ -1,4 +1,4 @@
-[uBlock Origin]
+[Adblock Plus]
 ! Version: 6267
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
