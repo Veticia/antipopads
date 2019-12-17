@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 10378
+! Version: 10379
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
@@ -9417,6 +9417,7 @@
 ||utzhcsrzrlhhxn.com^
 ||uuaajohul.com^
 ||uudehlgu.com^
+||uufbvpidyn.com^
 ||uujzywpxxrroh.com^
 ||uukqisdwolzsjd.com^
 ||uunriutbi.com^
